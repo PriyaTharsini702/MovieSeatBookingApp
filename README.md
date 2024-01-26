@@ -1,4 +1,4 @@
-#A simple movie seat booking App using React and node js
+##A simple movie seat booking App using React and node js
 
 
 
@@ -11,7 +11,7 @@ Once the User successfully loggned into the application a token will be set in t
 
 
 
-#To run this application:-
+##To run this application:-
 
 Download the ZIP code
 
